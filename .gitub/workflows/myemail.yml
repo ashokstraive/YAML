@@ -1,4 +1,4 @@
-name: My Example Action
+name: My Example Action 
 
 on:
   push:  # Trigger on every push to any branch
